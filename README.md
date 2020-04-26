@@ -3,5 +3,5 @@ Schools network database is university project for a database course. To build a
 
 The Project objectives are:
 * Database system concepts and system architecture.
-* Relational databe desgin, modeling, and implementation.
+* Relational databe desgin, modeling, and implementation. ( Check milestone 1 for the ERD)
 * Relational database query(SQL) nad object-Relational extentions.
